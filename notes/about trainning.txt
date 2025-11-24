@@ -1,0 +1,41 @@
+🥇 Roboflow
+
+Best for: Easy pipeline + YOLO integration + flexibility.
+
+🔹 Why it’s great for person detection:
+
+It already has pre-trained YOLOv8 models for “person” detection.
+
+You can also fine-tune it on your own dataset — e.g., images from your CCTV, parking lot, etc.
+
+One-click “Train YOLOv8” option.
+
+You can deploy it easily on web, mobile, or edge devices (like Jetson Nano or Raspberry Pi).
+
+🔹 How to use:
+
+Go to https://roboflow.com
+
+Create a project → select “Object Detection (Bounding Boxes)”.
+
+Upload your dataset (or even a few images).
+
+Annotate only “person” boxes.
+
+Click Train Model → Choose YOLOv8.
+
+It will train automatically in the cloud.
+
+You’ll get a hosted model + API + download options.
+
+🔹 Exports available:
+
+YOLOv8 / YOLOv5
+
+TensorFlow
+
+ONNX, CoreML (for mobile)
+
+Deployment-ready (via their hosted API)
+
+✅ Highly recommended for your use case
